@@ -12,6 +12,7 @@ requirements
 - APT source
 - CTI report
 - hash value 
+- additional info: CVSS score, STIX for IOC
 
 logic
 - Detection logic
