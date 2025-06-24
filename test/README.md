@@ -1,15 +1,23 @@
 # Name of Detection
 
-1. Name
-2. TTP tagged 
-3. motivation
-4. APT 
-5. CTI report
-6. hash value 
+- Name
+- TTP tagged 
+
+requirements 
+
+- motivation/ reasons 
+- requesting organisation
+- description 
+- exception 
+- APT source
+- CTI report
+- hash value 
 
 logic
-description
-3. Detection logic
+- Detection logic
+- type: network/ endpoint 
+- log source 
+- evidence
 
 deploy
 4. approved at
