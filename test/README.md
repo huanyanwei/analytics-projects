@@ -6,7 +6,7 @@
 requirements 
 
 - motivation/ reasons 
-- requesting organisation
+- requesting organisation: SOC, CTI, RT, users 
 - description 
 - exception 
 - APT source
